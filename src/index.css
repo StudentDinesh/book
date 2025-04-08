@@ -1,4 +1,4 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -6,7 +6,7 @@
   .duration-high {
     @apply transition-all duration-300 ease-in-out;
   }
-}
+} */
 
 @keyframes spin {
   from {
@@ -25,9 +25,9 @@ html {
   scroll-behavior: smooth;
 }
 
-::selection {
+/* ::selection {
   @apply bg-primary text-white;
-}
+} */
 
 
 /* Background overlay */
